@@ -1,19 +1,26 @@
 =========================================
-How to display several images per product
+How To Display Several Images Per Product
 =========================================
 
-By default your product web page displays the main image of your product only.
-If you like to show your products under several angles, you can turn the image into a carrousel.
+By default, your product page only displays the main image of your product.
+If you'd like to show multiple images of your product, you can turn the image into a carousel.
 
 .. image:: ./media/multi_images01.png
    :align: center
 
-* Check *Several images per product* in :menuselection:`Website Admin --> Configuration --> Settings`.
+* Open a product template form and click the *eCommerce* tab. Then click *Add A Media* in 
+  the *Extra Product Media* section.
 
-* Open a product detail form and upload images from *Images* tab. Hit *Create* in Edit mode to get the upload wizard.
-
-.. image:: ./media/multi_images02.png
+.. image:: ./media/ecommerce-tab.png
    :align: center
+   
+* A pop-up will appear, in which you can add a title and upload additional media.
+
+.. image:: ./media/product-media-popup.png
+
+* Any additional media will be displayed the default product photo on the product page.
+
+.. image:: ./media/product-carousel.png
 
 .. note:: 
-    Such extra image are common to all the product variants (if any).
+    Additional images are commonly used on products with a number of variants.
