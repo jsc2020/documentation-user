@@ -1,6 +1,6 @@
-==================
-Manage my products
-==================
+=================
+Managing Products
+=================
 
 .. toctree::
    :titlesonly:

@@ -1,5 +1,5 @@
 ========
-Get paid
+Get Paid
 ========
 
 .. toctree::

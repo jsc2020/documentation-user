@@ -1,6 +1,6 @@
-===================
-Maximize my revenue
-===================
+==================
+Maximizing Revenue
+==================
 
 .. toctree::
    :titlesonly:

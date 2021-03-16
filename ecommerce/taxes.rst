@@ -1,5 +1,5 @@
 =================
-Collect taxes
+Collect Taxes
 =================
 
 .. toctree::
