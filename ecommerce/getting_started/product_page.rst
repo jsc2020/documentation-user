@@ -1,8 +1,8 @@
 ============================
-How to build a product page
+How To Build A Product Page
 ============================
 
-On the website click *New Page* in the top-right corner.
+On the website, click *New Page* in the top-right corner.
 
 Then click *New Product* and follow the blinking tips.
 
@@ -16,7 +16,7 @@ Here are the main elements of the Product page:
 
 Many elements can be made visible from the *Customize* menu.
 
-.. image:: ./media/product_customize.png
+.. image:: ./media/customize-dropdown.png
    :align: center
 
 See how to configure your products from links here below.
