@@ -160,6 +160,30 @@ A few tips to improve your screenshots:
    Resizing the window's width is the most important step to do as Odoo's responsive design
    automatically resizes all fields to match the window's width.
 
+.. _contributing/media-filenames:
+
+Media filenames
+---------------
+
+A **media filename** is written in **lower-case letters** and is composed of three parts:
+
+1. A **prefix** which is the same name as the *RST filename* in which the media is referenced. E.g.,
+   ``content-guidelines``.
+2. An **identifying name** relevant to the media's content. E.g., ``filename``.
+3. The **file extension**, which is ``.png`` for most images.
+
+Use a **hyphen** ``-`` to separate the words in the media filename. E.g.,
+``content-guidelines-filename.png``.
+
+.. note::
+   **RST** filenames use **underscores** ``_`` to separate words. Replace them with hyphens for the
+   media filenames.
+
+.. important::
+   Previously, image filenames would mostly be named with numbers (e.g., ``feature01.png``). While
+   it is advised not to name your *new* images in that fashion, it is also important not to rename
+   unchanged files. They will eventually all be replaced with new content.
+
 .. _contributing/alt-tags:
 
 ALT tags
