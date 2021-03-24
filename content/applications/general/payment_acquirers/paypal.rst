@@ -204,4 +204,4 @@ Run a test transaction from Odoo using the sandbox personal account.
 
 .. seealso::
    - :doc:`payment_acquirers`
-   - :doc:`../../ecommerce/shopper_experience/payment_acquirer`
+   - :doc:`../../websites/ecommerce/shopper_experience/payment_acquirer`

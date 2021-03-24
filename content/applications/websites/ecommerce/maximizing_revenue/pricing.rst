@@ -8,8 +8,8 @@ This section sheds some light on pricing features of eCommerce app:
 
 * let the customer choose the currency.
 
-As a pre-requisite, check out how to managing produt pricing:
-:doc:`../../sales/products_prices/prices/pricing`).
+As a pre-requisite, check out how to managing product pricing:
+:doc:`../../../sales/sales/products_prices/prices/pricing`).
 
 Geo-IP to automatically apply the right price
 ================================================
@@ -31,6 +31,6 @@ their own currency. Check *Selectable* to add the pricelist to the website drop-
 
 .. seealso::
 
-  * :doc:`../../sales/products_prices/prices/pricing`
-  * :doc:`../../sales/products_prices/prices/currencies`
+  * :doc:`../../../sales/sales/products_prices/prices/pricing`
+  * :doc:`../../../sales/sales/products_prices/prices/currencies`
   * :doc:`promo_code`

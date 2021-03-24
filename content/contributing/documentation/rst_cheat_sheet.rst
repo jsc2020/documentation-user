@@ -267,7 +267,7 @@ RST
 .. code-block:: rst
 
    Please refer to :doc:`this documentation <customer_invoices>` and to
-   :doc:`../sales/invoicing/proforma`.
+   :doc:`../sales/sales/invoicing/proforma`.
 
 Render
 ******
@@ -354,7 +354,7 @@ RST
 
    .. seealso::
       - :doc:`customer_invoices`
-      - `Pro-forma invoices <../sales/invoicing/proforma.html#activate-the-feature>`_
+      - `Pro-forma invoices <../sales/sales/invoicing/proforma.html#activate-the-feature>`_
 
 Render
 ~~~~~~

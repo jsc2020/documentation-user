@@ -114,4 +114,4 @@ order is canceled, you can click on *Void Transaction* to unlock the funds from 
    - `Authorize.Net: Getting Started Guide
      <https://support.authorize.net/s/article/Authorize-Net-Getting-Started-Guide>`__
    - :doc:`payment_acquirers`
-   - :doc:`../../ecommerce/shopper_experience/payment_acquirer`
+   - :doc:`../../websites/ecommerce/shopper_experience/payment_acquirer`
