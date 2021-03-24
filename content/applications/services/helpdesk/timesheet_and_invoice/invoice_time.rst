@@ -109,4 +109,4 @@ order.
 
 .. seealso::
    - :doc:`reinvoice_from_project`
-   - :doc:`../../inventory/management/products/uom`
+   - :doc:`../../../inventory_and_mrp/inventory/management/products/uom`

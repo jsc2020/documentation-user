@@ -48,5 +48,4 @@ its ratings.
          in Odoo Helpdesk
 
 .. seealso::
-   - :doc:`../../portal/my_odoo_portal`
    - :doc:`../advanced/close_tickets`
