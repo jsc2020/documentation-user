@@ -1,4 +1,3 @@
-:banner: banners/quality.png
 
 =======
 Quality

@@ -1,4 +1,3 @@
-:banner: banners/company.jpg
 
 .. _reference/howtos/company:
 

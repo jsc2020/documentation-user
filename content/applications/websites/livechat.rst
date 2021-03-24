@@ -1,4 +1,3 @@
-:banner: banners/livechat.png
 
 =========
 Live Chat

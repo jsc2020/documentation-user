@@ -1,4 +1,3 @@
-:banner: banners/repair.png
 
 =================
 Repair Management
