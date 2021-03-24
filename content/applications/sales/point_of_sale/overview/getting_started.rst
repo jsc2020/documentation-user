@@ -122,8 +122,8 @@ If everything is correct, validate the session and post the closing entries.
 .. tip::
    To connect the PoS hardware with an Odoo IoT Box, please refer to these
    docs: :doc:`Connect an IoT Box to your database
-   <../../iot/config/connect>` and :doc:`Use the IoT Box for the PoS
-   <../../iot/config/pos>`.
+   <../../../productivity/iot/config/connect>` and :doc:`Use the IoT Box for the PoS
+   <../../../productivity/iot/config/pos>`.
 
 View your statistics
 ====================

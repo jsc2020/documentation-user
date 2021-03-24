@@ -45,7 +45,7 @@ Configure and run the scheduler (for advanced users)
 ----------------------------------------------------
 
 To use this feature, you have to enable the
-:doc:`Developer mode <../../../general/developer_mode/activate>` mode.
+:doc:`Developer mode <../../../../../applications/general/developer_mode>` mode.
 
 Then, go to :menuselection:`Settings --> Technical --> Automation --> Scheduled Actions`
 and modify the *Run MRP Scheduler Configuration*. There, you can set

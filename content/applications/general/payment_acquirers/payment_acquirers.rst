@@ -40,7 +40,7 @@ Bank Payments
     approve the payment manually once you have received it on your bank account.
 - | SEPA Direct Debit
   | Your customers can sign a SEPA Direct Debit mandate online and get their bank account charged
-    directly. :doc:`Click here <../../accounting/receivables/customer_payments/batch_sdd>` for more
+    directly. :doc:`Click here <../../finance/accounting/receivables/customer_payments/batch_sdd>` for more
     information about this payment method.
 
 .. _payment_acquirers/online_providers:
@@ -73,7 +73,7 @@ Online Payment Providers
 
 .. note::
    Some of these Online Payment Providers can also be added as :doc:`Bank Accounts
-   <../../accounting/bank/setup/bank_accounts>`, but this is **not** the same process as adding them
+   <../../finance/accounting/bank/setup/bank_accounts>`, but this is **not** the same process as adding them
    as Payment Acquirers. Payment Acquirers allow customers to pay online, and Bank Accounts are
    added and configured on your Accounting app to do a bank reconciliation, which is an accounting
    control process.
@@ -220,7 +220,7 @@ Here are the requirements for this to work:
 
 .. seealso::
 
-   - :doc:`../../accounting/receivables/customer_payments/recording`
+   - :doc:`../../finance/accounting/receivables/customer_payments/recording`
    - :doc:`wire_transfer`
    - :doc:`authorize`
    - :doc:`paypal`

@@ -222,4 +222,4 @@ When you have entered all the extra values, click on **Save**.
 .. seealso::
    - `Accounting Memento: Details of Journal Entries
      <../../../accounting/overview/main_concepts/memento.html#journal-entries>`_
-   - :doc:`../../../accounting/overview/process_overview/supplier_bill`
+   - :doc:`../../../../finance/accounting/overview/process_overview/supplier_bill`

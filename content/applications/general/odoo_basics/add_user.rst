@@ -39,7 +39,7 @@ the user. The user must click on it to accept the invitation and create a login.
    `pricing page <https://www.odoo.com/pricing>`_
    for more information.
 
-With the :doc:`Developer mode <../../general/developer_mode/activate>` activated, *User Types* can
+With the :doc:`Developer mode <../../../../applications/general/developer_mode>` activated, *User Types* can
 be selected.
 
 .. image:: media/user_type.png
@@ -56,7 +56,7 @@ groups.
 Access Rights in detail
 =======================
 
-Activate the :doc:`Developer mode <../../general/developer_mode/activate>`, then go to
+Activate the :doc:`Developer mode <../../../../applications/general/developer_mode>`, then go to
 :menuselection:`Settings --> Users & Companies --> Groups`.
 
 Groups
@@ -138,4 +138,4 @@ the user can have access.
 
 .. seealso::
    - :doc:`../multi_companies/manage_multi_companies`
-   - :doc:`../../db_management/documentation`
+   - :doc:`../../settings/users_and_features`

@@ -68,4 +68,4 @@ Once the task is complete, click on *Sales Order* and *Create Invoice*.
 
 .. seealso::
     - :doc:`../overview/setup`
-    - :doc:`../../sales/invoicing/subscriptions`
+    - :doc:`../../../sales/sales/invoicing/subscriptions`

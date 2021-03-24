@@ -18,7 +18,7 @@ long as both environments are active).
    :alt: Overview of a new company's form in Odoo
 
 .. tip::
-   Activate the :doc:`Developer mode <../../general/developer_mode/activate>` to choose a *Favicon*
+   Activate the :doc:`Developer mode <../developer_mode/activate>` to choose a *Favicon*
    for each of your companies, and easily identify them by the browser tabs. Set your
    favicons’ files size to 16x16 or 32x32 pixels. JPG, PNG, GIF, and ICO are extensions accepted.
 
@@ -83,13 +83,13 @@ Inter-Company Transactions
 
 First, make sure each one of your companies is properly set in relation to:
 
-- :doc:`Chart of Accounts <../../accounting/overview/getting_started/chart_of_accounts>`
-- :doc:`Taxes <../../accounting/fiscality/taxes/default_taxes>`
-- :doc:`Fiscal Positions <../../accounting/fiscality/taxes/fiscal_positions>`
-- :doc:`Journals <../../accounting/bank/setup/bank_accounts>`
-- :doc:`Fiscal Localizations <../../accounting/fiscal_localizations/overview/fiscal_localization_packages>`
-- :doc:`Pricelists <../../sales/products_prices/prices/pricing>`
-- :doc:`Warehouses <../../inventory/management/warehouses/warehouse_creation>`
+- :doc:`Chart of Accounts <../../finance/accounting/overview/getting_started/chart_of_accounts>`
+- :doc:`Taxes <../../finance/accounting/fiscality/taxes/default_taxes>`
+- :doc:`Fiscal Positions <../../finance/accounting/fiscality/taxes/fiscal_positions>`
+- :doc:`Journals <../../finance/accounting/bank/setup/bank_accounts>`
+- :doc:`Fiscal Localizations <../../finance/accounting/fiscal_localizations/overview/fiscal_localization_packages>`
+- :doc:`Pricelists <../../sales/sales/products_prices/prices/pricing>`
+- :doc:`Warehouses <../../inventory_and_mrp/inventory/management/warehouses/warehouse_creation>`
 
 Now, activate the *Inter-Company Transactions* option under *Settings*. With the respective company
 *activated* and *selected*, choose if you would like operations between companies to be synchronized
@@ -129,4 +129,4 @@ at an invoice/bills level or at a sales/purchase orders level.
 
 .. seealso::
    - `Multi-company Guidelines <https://www.odoo.com/documentation/13.0/howtos/company.html>`_
-   - :doc:`../../accounting/others/multicurrencies/how_it_works`
+   - :doc:`../../finance/accounting/others/multicurrencies/how_it_works`
