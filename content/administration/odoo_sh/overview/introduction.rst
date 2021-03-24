@@ -1,4 +1,3 @@
-:banner: banners/odoo_sh.png
 
 ==============================
 Introduction to Odoo.sh

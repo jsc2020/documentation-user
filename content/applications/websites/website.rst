@@ -1,4 +1,3 @@
-:banner: banners/seo.png
 
 =======
 Website
@@ -9,6 +8,3 @@ Website
 
    website/publish
    website/optimize
-   
-
-

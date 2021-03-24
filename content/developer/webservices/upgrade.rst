@@ -1,7 +1,3 @@
-:banner: banners/upgrade_api.jpg
-:types: api
-
-
 :code-column:
 
 .. _reference/upgrade-api:

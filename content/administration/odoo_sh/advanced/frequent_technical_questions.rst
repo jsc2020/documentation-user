@@ -1,4 +1,3 @@
-:banner: banners/odoo_sh.png
 
 .. _odoosh-advanced-frequent_technical_questions:
 

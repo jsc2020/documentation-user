@@ -1,4 +1,3 @@
-:banner: banners/odoo_sh.png
 
 =================
 Get started

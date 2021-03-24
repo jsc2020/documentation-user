@@ -1,4 +1,3 @@
-:banner: banners/legal.png
 
 ====================
 Terms and Conditions

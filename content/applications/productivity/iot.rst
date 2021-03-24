@@ -1,4 +1,3 @@
-:banner: banners/iot.png
 
 ========================
 Internet of Things (IoT)

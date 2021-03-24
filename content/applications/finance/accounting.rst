@@ -1,4 +1,3 @@
-:banner: banners/accounting.png
 
 ========================
 Invoicing and Accounting

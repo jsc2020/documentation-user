@@ -1,5 +1,3 @@
-:banner: banners/web_service_api.jpg
-:types: api
 
 ============
 Web Services
