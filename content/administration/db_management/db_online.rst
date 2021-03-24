@@ -1,5 +1,3 @@
-:banner: banners/db_online.png
-
 
 .. _db_online:
 

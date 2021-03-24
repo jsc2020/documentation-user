@@ -1,4 +1,3 @@
-:banner: banners/users.png
 
 .. _db_management/documentation:
 

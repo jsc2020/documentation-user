@@ -1,4 +1,3 @@
-:banner: banners/inventory.png
 
 =========
 Inventory

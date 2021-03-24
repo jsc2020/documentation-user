@@ -1,5 +1,3 @@
-.. :banner: banners/support.png
-
 
 .. _support-expectations:
 

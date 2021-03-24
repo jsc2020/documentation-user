@@ -1,4 +1,3 @@
-:banner: banners/sales.png
 
 =====
 Sales
