@@ -1,7 +1,6 @@
 :banner: banners/legal.png
-:has-toc:
-
-.. ^^: cheat to have a full-width table as if this was a real toc page
+:orphan:
+:custom-css: legal.css
 
 =====
 Legal
