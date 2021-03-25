@@ -1,6 +1,3 @@
-:banner: banners/extract_api.jpg
-:types: api
-
 :code-column:
 
 ===============
