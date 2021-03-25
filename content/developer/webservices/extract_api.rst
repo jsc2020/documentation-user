@@ -29,7 +29,7 @@ Expected successful flow
    This step is optional but greatly helps the system to improve.
 
 These 3 routes are detailed in this :ref:`section <webservices/extract_api/routes>`. The HTTP POST method should be used for all of them. A python implementation of the full flow
-can be found :download:`here </_static/extract_api_implementation.py>` and a token for integration testing is provided in the :ref:`integration testing section <webservices/extract_api/integration_testing>`.
+can be found :download:`here <files/extract_api_implementation.py>` and a token for integration testing is provided in the :ref:`integration testing section <webservices/extract_api/integration_testing>`.
 
 .. _webservices/extract_api/routes:
 
@@ -547,7 +547,7 @@ Using this token put you in test mode and allows you to simulate the entire flow
 The only technical differences in test mode is that the document you send is not parsed by the system and that the response you get from :ref:`/get_results <webservices/extract_api/invoice_get_results>`
 is a hard-coded one. 
 
-A python implementation of the full flow can be found :download:`here </_static/extract_api_implementation.py>`.
+A python implementation of the full flow can be found :download:`here <files/extract_api_implementation.py>`.
 
 .. _JSON-RPC2: https://www.jsonrpc.org/specification
 
