@@ -18,7 +18,7 @@ copyright = 'Odoo S.A.'
 # `version` if the version info for the project being documented, acts as replacement for |version|,
 # also used in various other places throughout the built documents.
 # `release` is the full version, including alpha/beta/rc tags. Acts as replacement for |release|.
-version = release = '12.0'
+version = release = '14.0'
 
 # The minimal Sphinx version required to build the documentation.
 needs_sphinx = '3.0.0'
