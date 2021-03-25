@@ -89,7 +89,7 @@ of measure, you can enter 1.
 .. note:: If you use a *Rounding Precision* inferior to 0.01, a warning message might appear stating
    that it is higher than the *Decimal Accuracy* and that it might cause inconsistencies. If you
    wish to use a *Rounding Precision* lower than 0.01, first :doc:`activate the Developer Mode
-   <../../general/developer_mode/activate>`, then go to :menuselection:`Settings --> Technical -->
+   <../../../general/developer_mode/activate>`, then go to :menuselection:`Settings --> Technical -->
    Database Structure --> Decimal Accuracy`, select *Product Unit of Measure* and edit *Digits*
    accordingly. For example, if you want to use a rounding precision of 0.00001, set *Digits* to 5.
 
