@@ -1,5 +1,5 @@
 ---------------------------------
-How to show product availability
+How To Show Product Availability
 ---------------------------------
 
 The availability of your products can be shown on the website to reassure your customers.
@@ -19,7 +19,7 @@ A custom warning message can be anything related to a stock out, delivery delay,
    :align: center
 
 .. note::
-    This tool does not require the Inventory app to be installed.
+    This tool requires the Inventory app to be installed.
 
 .. tip::
     If one item is no longer sellable, unpublish it from your website. If it comes to
